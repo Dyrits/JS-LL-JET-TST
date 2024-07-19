@@ -44,13 +44,6 @@ There is no current issue with this project. Feel free to open an issue if you h
 
 ### Changelog
 <details markdown="block">
-<summary><strong>Version 1.00 (07/2024)</strong></summary>
-
-The README has been updated.
-
-</details>
-
-<details markdown="block">
 <summary><strong>Version 1.00 (05/2020)</strong></summary>
 
 The first version of the project has been released.
